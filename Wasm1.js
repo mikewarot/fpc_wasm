@@ -1,5 +1,7 @@
-// code taken from https://www.freepascal.org/~michael/pas2js-demos/wasienv/
-// license unknown    (sorry!)
+/* code taken from https://www.freepascal.org/~michael/pas2js-demos/wasienv/
+ license unknown    (sorry!)
+
+*/
 
 var pas = {};
 
